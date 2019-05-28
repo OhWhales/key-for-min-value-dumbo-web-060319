@@ -11,5 +11,6 @@ def key_for_min_value(name_hash)
       actualAnswer=key
     end 
   end 
+  return actualAnswer
       
 end

@@ -3,8 +3,10 @@
 
 def key_for_min_value(name_hash)
   answer= 100000
+  actualAnswer=""
   name_hash.each do |key, val|
     
     if val < answer 
       answer = val 
+      
 end

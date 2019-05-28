@@ -10,5 +10,6 @@ def key_for_min_value(name_hash)
       answer = val 
       actualAnswer=key
     end 
+  end 
       
 end
